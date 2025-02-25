@@ -1,5 +1,5 @@
 ---
-title: 壁紙
+title: 壁纸
 date: 2019-12-25 15:04:35
 comments: false
 description:
