@@ -1,7 +1,7 @@
 ---
 title: 第一篇博客
 tags: demo
-categories: Demo
+categories: 说说
 #cover: false
 abbrlink: 913b2502
 date: 2020-03-10 03:45:41
@@ -14,4 +14,4 @@ comments: true
 
 ## Hello World
 
-這篇文章沒有封面
+这是我博客的第一篇文章，以此证明我来过这个世界

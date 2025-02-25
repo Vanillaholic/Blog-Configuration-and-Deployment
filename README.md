@@ -1,8 +1,20 @@
 ## Blog-demo
 
+待修改内容：
+
+---
+
+- 进入网站的时候预加载
+- 博客文章显示上一篇，下一篇
+- 代码框背景改成Mac黑色版本，开启高亮，默认为折叠模式，代码字体小一点
+- 开启评论功能
+- 网站的logo改成头像
+
+---
+
 这是我采用 hexo 框架，主题 Butterfly 的静态网页文件/ Demo 仓库
 
-fork了原仓库butterfly.js.org(作者:Jerry Wang)，请在原作者界面提交 PR 完善修改
+**fork了原仓库butterfly.js.org(作者:Jerry Wang)，请在原作者界面提交 PR 完善修改**
 
 ### 提交网站 `示例`
 

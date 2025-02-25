@@ -9,7 +9,7 @@ top_img: https://oss.012700.xyz/butterfly/2024/09/messageboard.jpg
 Troubleshooting any problem without the error log <br> 
 is like driving with your eyes closed.<br>
 
-你可以在这里反馈我github项目里的bug
+### 你可以在这里反馈我github项目里的bug
 
 </p>
 
@@ -22,7 +22,7 @@ is like driving with your eyes closed.<br>
 {% endnote %}
 
 {% note info %}
-在你反馈 Bug 或者询问使用问題之前，请注意
+在你反馈 Bug 或者询问使用问题之前，请注意
 1. 请确保你已经看了安裝文档
 2. 详细描述遇到的问题，附上相应的报错/截图
 3. 礼貌用语

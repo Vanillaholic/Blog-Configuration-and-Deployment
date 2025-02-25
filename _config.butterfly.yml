@@ -24,18 +24,17 @@ menu:
     分类: /categories/ || fas fa-folder-open
     图库: /Gallery/ || fas fa-images
     说说: /talking/ || fas fa-comment-dots
-    示例: /link/ || fas fa-thumbs-up
+    友链: /link/ || fas fa-thumbs-up
   文档||fas fa-book:
-    🚀 快速开始: /posts/21cfbf15/
-    📑 主题页面: /posts/dc584b87/
-    🛠 主题配置: /posts/4aa8abbe/
-    ⚔️ 标签外挂: /posts/ceeb73f/
-    ❓ 主题问答: /posts/98d20436/
-    ⚡️ 进阶教程: /posts/4073eda/
-    ✨ 更新日志: /posts/198a4240/
+    📌 自我介绍: /posts/4aa8abbe/
+    📑 知识分享: /posts/dc584b87/
+    🛠  工具分享: /posts/4aa8abbe/
+    🖋  文章投稿: /posts/3574d402/ 
+    ❓ 问题互助: /posts/98d20436/
+
   留言板: /messageboard/ || fas fa-comment-dots
   语言||fas fa-language:
-    English: /en/ || fas fa-e
+    English(in building...): /en/ || fas fa-e
     中文: / || fas fa-c
 
 # --------------------------------------
@@ -843,7 +842,7 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work
 font:
-  global_font_size: 19px
+  global_font_size: 17px
   code_font_size:
   font_family:
   code_font_family:
@@ -906,7 +905,7 @@ canvas_nest:
 fireworks:
   enable: true
   zIndex: 9999
-  mobile: false
+  mobile: true
 
 # Mouse click effects: Heart symbol
 click_heart:

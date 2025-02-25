@@ -3,10 +3,10 @@ title: 恒虚警检测器CFAR
 comments: true
 date: 2025-02-24 19:16:00
 tags:
-  - 声纳
+  - 雷达/声纳
   - 信号处理
 categories:  
-  - Docs文檔
+  - Docs文档
 keywords: signal processing, CFAR ,detection
 description: 1维的恒虚警检测器CFAR 
 top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
