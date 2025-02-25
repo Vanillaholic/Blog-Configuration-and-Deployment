@@ -29,8 +29,7 @@ cover: ./image/CFAR/微信截图_20250225170144.png
 对信道系数矩阵CCM进行二维FFT，就能获得RDM图。公式如下
 
 $$
-\text{RDM}(n,m) = \left| 2\text{D FFT}(\mathbf{H})(n,m) \right|^2 \\
-= \left| \sum_{k=0}^{N-1} \sum_{l=0}^{M-1} (\mathbf{H})_{k,l} e^{j2\pi lm/M} e^{j2\pi kn/N} \right|^2
+\text{RDM}(n,m) = \left| 2\text{D FFT}(\mathbf{H})(n,m) \right|^2 \\= \left| \sum_{k=0}^{N-1} \sum_{l=0}^{M-1} (\mathbf{H})_{k,l} e^{j2\pi lm/M} e^{j2\pi kn/N} \right|^2
 $$
 
 在进行RDM处理后，会获取10log10(NM)的增益，以便于识别目标 。
