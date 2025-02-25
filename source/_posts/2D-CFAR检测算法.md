@@ -2,11 +2,9 @@
 title: 2D-CFAR检测算法
 comments: true
 date: 2025-02-24 19:26:50
-tags:
-  - 雷达/声纳
-  - 信号处理
+tags: [雷达/声纳,信号处理]
 categories:  
-  - Docs文档
+ - [信号处理,CFAR]
 keywords: signal processing, CFAR ,detection
 description: 二维的恒虚警检测器CFAR ,用来探测目标移动速度和距离。
 top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg

@@ -11,7 +11,7 @@
 
 nav:
   #导航栏logo图像
-  logo: ./img/liu13.png
+  logo: /img/liu13.png
   display_title: true
   # 是否固定导航栏
   fixed: false
@@ -26,12 +26,11 @@ menu:
     说说: /talking/ || fas fa-comment-dots
     友链: /link/ || fas fa-thumbs-up
   文档||fas fa-book:
-    📌 自我介绍: /posts/4aa8abbe/
-    📑 知识分享: /posts/dc584b87/
-    🛠  工具分享: /posts/4aa8abbe/
-    🖋  文章投稿: /posts/3574d402/ 
-    ❓ 问题互助: /posts/98d20436/
-
+    📌自我介绍: /posts/4aa8abbe/
+    📑知识分享: /posts/dc584b87/
+    🛠工具分享: /posts/4aa8abbe/
+    🖋文章投稿: /posts/3574d402/ 
+    ❓问题互助: /posts/98d20436/
   留言板: /messageboard/ || fas fa-comment-dots
   语言||fas fa-language:
     English(in building...): /en/ || fas fa-e
@@ -45,7 +44,7 @@ code_blocks:
 # Code Blocks (代码块相关)
 # --------------------------------------
    # 代码高亮主题：darker / pale night / light / ocean / false
-  highlight_theme: mac 
+  highlight_theme: darker
   macStyle: true                    # 使用 Mac 风格
   # 高度限制（单位：像素）
   highlight_height_limit: false 
@@ -55,7 +54,7 @@ code_blocks:
   highlight_theme_macStyle: true    # 使用 Mac 风格
   highlight_copy: true              # 显示复制按钮.
   highlight_lang: true              # 显示代码语言
-  highlight_shrink: false           # 代码块收缩模式：true: 收缩代码块 / false: 展开代码块 | none: 展开代码块并隐藏按钮
+  highlight_shrink: true            # 代码块收缩模式：true: 收缩代码块 / false: 展开代码块 | none: 展开代码块并隐藏按钮
   highlight_fullpage: true          # 添加切换全屏的按钮 true
 
 
@@ -69,10 +68,10 @@ social:
 # 图片设置
 # --------------------------------------
 
-favicon: /img/favicon.ico
+favicon: /img/liu13.png
 
 avatar:
-  img: ./img/liu13.png
+  img: /img/liu13.png
   effect: false
 
 # 禁用所有顶部横幅图片
@@ -558,7 +557,7 @@ comments:
   # Leave it empty if you don't need comments
   # Choose: Disqus/Disqusjs/Livere/Gitalk/Valine/Waline/Utterances/Facebook Comments/Twikoo/Giscus/Remark42/Artalk
   # Format of two comments system : Disqus,Waline
-  use: Artalk,Disqus
+  use: giscus
   # Display the comment name next to the button
   text: true
   # Lazyload: The comment system will be load when comment element enters the browser's viewport.
@@ -660,9 +659,9 @@ twikoo:
 # Giscus
 # https://giscus.app/
 giscus:
-  repo:
-  repo_id:
-  category_id:
+  repo: Vanillaholic/blog-comments
+  repo_id: R_kgDON_N0Jg
+  category_id: DIC_kwDON_N0Js4CnUEh
   light_theme: light
   dark_theme: dark
   js:
@@ -815,7 +814,7 @@ mask:
 
 # Loading Animation
 preloader:
-  enable: false
+  enable: true
   # source
   # 1. fullpage-loading
   # 2. pace (progress bar)
@@ -842,8 +841,8 @@ beautify:
 # Global font settings
 # Don't modify the following settings unless you know how they work
 font:
-  global_font_size: 17px
-  code_font_size:
+  global_font_size: 18px
+  code_font_size: 15px
   font_family:
   code_font_family:
 
