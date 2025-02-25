@@ -3,7 +3,7 @@ title: 留言板
 date: 2019-04-14 18:30:38
 comments: true
 description: 留言板
-top_img: https://oss.012700.xyz/butterfly/2024/09/messageboard.jpg
+top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
 ---
 <p style="font-size:1.72em;font-weight:bold;text-align: center">
 Troubleshooting any problem without the error log <br> 
