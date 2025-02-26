@@ -34,9 +34,7 @@ T=aP_n
 $$
 P_n表示噪声功率估计，a是缩放因子，选取一个合适的因子，虚警概率就可以保持为一个常数，因此该方法称为CFAR。
 
-
-![一维CFAR检测](./image/CFAR/image-20250224163815319.png  "一维CFAR检测")
-
+![CFAR-TH.png](https://www.helloimg.com/i/2025/02/26/67be7c0d1657b.png)
 
 阈值随着信号的噪声功率增加，以保持恒定的虚警率。当信号水平超过阈值时，会发生检测。
 
@@ -46,9 +44,9 @@ P_n表示噪声功率估计，a是缩放因子，选取一个合适的因子，�
 
 一维情况如下所示：
 
-![一维CFAR检测结构](./image/CFAR/image-20250224162800328.png  "一维CFAR检测结构")
+![CFAR.png](https://www.helloimg.com/i/2025/02/26/67be7c0c72f26.png)
 
-![一维CFAR检测流程](./image/CFAR/1d-cafr.png  "一维CFAR检测流程")
+![1d-cafr.png](https://www.helloimg.com/i/2025/02/26/67be7bf9bdf49.png)
 
 最中间的检测单元，其次是守护单元(保护单元主要用在单目标情况下，防止目标能量泄漏到参考单元影响检测效果)，最外围是训练单元，噪声估计可以计算为：
 $$
@@ -133,8 +131,7 @@ $$
 | GO-CFAR   | max{X, Y}           | 在杂波边缘和均匀杂波环境能保持较好的检测性能。               | 多目标环境中的检测性能较差。                                 |
 | OS-CFAR   | (ascend_sort{X, Y}) | 多目标检测性能较好。                                         | 依赖于参考窗内的所有样本数据，且 k 的取值直接决定了检测结果的优劣。 |
 
-
-![一维CFAR性能](.image/CFAR/CFAR_performance.jpg  "一维CFAR性能")
+![CFAR_performance.jpg](https://www.helloimg.com/i/2025/02/26/67be7c0d00b60.jpg)
 
 ```matlab
 % ------ 程序功能：四类CFAR检测算法的检测概率与SNR的关系 %
