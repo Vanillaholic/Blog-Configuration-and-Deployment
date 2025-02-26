@@ -3,7 +3,7 @@ title: Hello World
 author: Zane
 top:
 date: 2024-05-20 13:53:12
-description: 欢迎来到我的第一篇博客
+description: 我的第一篇博客
 tags:
 categories:
 img:
@@ -72,5 +72,5 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzc0MTAxNF19
+eyJoaXN0b3J5IjpbMTkyNDkxNjgxM119
 -->
