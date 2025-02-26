@@ -9,7 +9,7 @@ keywords: signal processing, CFAR ,detection
 description: 1维的恒虚警检测器CFAR 
 top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
 
-cover: ./image/CFAR/1d-cafr.png
+cover: https://www.helloimg.com/i/2025/02/26/67be7c0d1657b.png
 
 ---
 # 恒虚警检测器CFAR

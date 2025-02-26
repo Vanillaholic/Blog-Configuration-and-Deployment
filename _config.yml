@@ -54,6 +54,11 @@ prismjs:
   preprocess: true
   line_number: true
   tab_replace: ''
+#更换了markdown渲染插件
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
+
 
 # Home page setting
 # path: Root path for your blogs index page. (default = '')

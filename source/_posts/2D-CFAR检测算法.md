@@ -8,7 +8,7 @@ categories:
 keywords: signal processing, CFAR ,detection
 description: 二维的恒虚警检测器CFAR ,用来探测目标移动速度和距离。
 top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
-cover: ./image/CFAR/2d-cfar.png
+cover: https://www.helloimg.com/i/2025/02/26/67be7bf9bdf49.png
 ---
 
 ## 一、内容复习
