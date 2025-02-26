@@ -11,7 +11,7 @@ cover: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi
 coverImg: 
 password: 
 ---
-欢迎来到我的第一篇博客,以此证明我在这个世上存在过
+这是我发的第一篇博客,以此证明我在这个世上存在过
 
 ## 如何发博文章
 
