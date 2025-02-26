@@ -17,9 +17,12 @@ password:
 
 ### 安装hexo渲染器
 ```bash
+npm install hexo-renderer-pug hexo-renderer-stylus
+```
+由于公式原因,需要更换渲染器里的东西
+```bash
 
 ```
-
 ### Create a new post
 
 ``` bash
@@ -52,5 +55,5 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NzQyMzAxXX0=
+eyJoaXN0b3J5IjpbLTU4MDQ2ODQ5M119
 -->
