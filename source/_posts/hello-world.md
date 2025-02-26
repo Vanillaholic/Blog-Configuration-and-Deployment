@@ -34,7 +34,11 @@ npm i hexo-renderer-markdown-it --save # 需要安装这个渲染插件
 npm install katex @renbaoshuo/markdown-it-katex #需要安装这个katex插件
 ```
 在 hexo 的根目录的 _config.yml 中配置
-
+```yaml
+markdown:
+  plugins:
+    - '@renbaoshuo/markdown-it-katex'
+```
 
 ### Create a new post
 
@@ -68,5 +72,5 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MjI0MjQyMDVdfQ==
+eyJoaXN0b3J5IjpbLTExNTMxNjE5MjhdfQ==
 -->
