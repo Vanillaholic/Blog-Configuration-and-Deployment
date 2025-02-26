@@ -11,9 +11,14 @@ cover: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi
 coverImg: 
 password: 
 ---
-这是我发的第一篇博客,以此证明我在这个世上存在过
+## 这是我发的第一篇博客,以此证明我在这个世上存在过……
 
 ## 如何发表文章
+
+### 安装hexo渲染器
+```bash
+
+```
 
 ### Create a new post
 
@@ -47,5 +52,5 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIyNjEwMTNdfQ==
+eyJoaXN0b3J5IjpbMTk0NzQyMzAxXX0=
 -->
