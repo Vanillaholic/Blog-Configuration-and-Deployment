@@ -19,10 +19,30 @@ password:
 ```bash
 npm install hexo-renderer-pug hexo-renderer-stylus
 ```
-由于公式原因,需要更换渲染器里的东西
-```bash
-
+由于公式原因,需要更换渲染器里的东西,开启KaTeX 需要把 use 设置为 katex
+```yaml
+katex:
+  # Enable the copy KaTeX formula
+  copy_tex: false
 ```
+你不需要添加 katex.min.js 來渲染数学方程。相应的你需要卸載你之前的 hexo 的 markdown 渲染器，然后an zhuang其它插件。
+
+hexo-renderer-markdown-it 【建議】
+hexo-renderer-markdown-it-plus
+卸載掉 marked 插件，安裝 hexo-renderer-markdown-it
+
+npm un hexo-renderer-marked --save # 如果有安裝這個的話，卸載
+npm un hexo-renderer-kramed --save # 如果有安裝這個的話，卸載
+
+npm i hexo-renderer-markdown-it --save # 需要安裝這個渲染插件
+npm install katex @renbaoshuo/markdown-it-katex #需要安裝這個katex插件
+在 hexo 的根目錄的 _config.yml 中配置
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/
+來源: Butterfly
+版權屬於作者所有。商業用途請聯絡作者獲得授權，非商業用途請註明出處。
 ### Create a new post
 
 ``` bash
@@ -55,5 +75,5 @@ $ hexo deploy
 
 More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MDQ2ODQ5M119
+eyJoaXN0b3J5IjpbOTQ5OTUzMDM2XX0=
 -->
