@@ -27,8 +27,8 @@ katex:
 ```
 你不需要添加 katex.min.js 來渲染数学方程。相应的你需要卸載你之前的 hexo 的 markdown 渲染器，然后安装其它插件。
 ```bash
-npm un hexo-renderer-marked --save # 如果有安装这个的話，卸载
-npm un hexo-renderer-kramed --save # 如果有安装这个的話，卸载
+npm un hexo-renderer-marked --save # 如果有安装这个的话，卸载
+npm un hexo-renderer-kramed --save # 如果有安装这个的话，卸载
 
 npm i hexo-renderer-markdown-it --save # 需要安装这个渲染插件
 npm install katex @renbaoshuo/markdown-it-katex #需要安装这个katex插件
