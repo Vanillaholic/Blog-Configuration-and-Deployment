@@ -1,6 +1,6 @@
 # Blog-Configuration-and-Deployment
 
-这是我采用 hexo 框架，主题 Butterfly 的静态网页文件/ Demo 仓库
+这是我采用 hexo 框架搭建blog的仓库，可以生成html文件,利用markdown语言就可以编写网页,使用的主题名字为 Butterfly.
 
 **fork了原仓库butterfly.js.org(作者:Jerry Wang)，请在原作者界面提交 PR 完善修改**
 
