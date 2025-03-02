@@ -3,16 +3,6 @@
   date: 2024-09-21 23:33:26
   key: key-1
   content: |
-    第一条说说
+    第一条说说,证明我来过这个世界……
   tags:
     - 自言自语
-- author: Zane
-  avatar: https://butterfly.js.org/img/avatar.png
-  date: 2024-09-22 23:33:26
-  key: key-2
-  content: |
-    第二条说说
-    图片:
-      ![圖片](https://butterfly.js.org/img/avatar.png)
-  tags:
-    - 头像
