@@ -136,7 +136,7 @@ error_img:
 error_404:
   enable: true
   subtitle: '页面没有找到'
-  background: https://oss.012700.xyz/butterfly/2024/10/butterfly-404.png
+  background: https://www.helloimg.com/i/2025/03/02/67c3f02868d37.png #https://oss.012700.xyz/butterfly/2024/10/butterfly-404.png
 
 post_meta:
   # 首页
