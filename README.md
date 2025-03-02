@@ -1,4 +1,4 @@
-# Blog-demo
+# Blog-Configuration-and-Deployment
 
 这是我采用 hexo 框架，主题 Butterfly 的静态网页文件/ Demo 仓库
 
