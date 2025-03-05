@@ -84,12 +84,12 @@ default_top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing
 index_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
 
 # 归档页横幅图片 
-archive_img: https://www.helloimg.com/i/2025/03/02/67c3ed6b6b856.png
+archive_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg
 
 # 标签页横幅配置（单个标签页，非标签列表页）
 # 格式：
 #  - 标签名: 图片URL
-tag_img: https://oss.012700.xyz/butterfly/2024/10/tag.png
+tag_img: https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/202503031845418.jpeg
 
 
 # 标签页横幅图片配置（可为每个标签单独设置）
@@ -98,7 +98,7 @@ tag_img: https://oss.012700.xyz/butterfly/2024/10/tag.png
 tag_per_img:
 
 # 分类页横幅配置（单个分类页，非分类列表页）  
-category_img: https://oss.012700.xyz/butterfly/2024/10/category.jpg
+category_img: https://cdn.jsdelivr.net/gh/vanillaholic/image-bed@main/img/202503031845418.jpeg
 # 格式：
 #  - 分类名: 图片URL
 

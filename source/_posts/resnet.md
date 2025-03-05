@@ -1,6 +1,7 @@
 ---
 title: Resnet残差网络 ## 标题
 author: Zane ## 作者
+comments: true
 date: 2025-03-02 13:53:12
 description: 描述 ## 描述
 tags: [笔记] ## 标签
