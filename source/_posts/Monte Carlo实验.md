@@ -7,7 +7,7 @@ description:  描述 ## 描述
 tags:  [教学,编程] ## 标签
 categories:
  - [教学,编程] ## 分类
-top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg## 置顶true/false
+top_img: https://img3.wallspic.com/crops/2/9/8/1/7/171892/171892-lu_xing-cheng_shi-li_cheng_bei-cheng_shi_jing_guan-3840x2160.jpg 
 cover: https://i-blog.csdnimg.cn/blog_migrate/7ca8e73319822a38aa6cf5bd07f04863.png  ## 封面
 ---
 
